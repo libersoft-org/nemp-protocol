@@ -18,7 +18,7 @@ This repository contains the complete protocol documentation including official 
 
 ## Implementation
 
-- The official [**NEMP Server**](https://github.com/libersoft-org/nemp-server/) including official modules, web admin, web mail client and web developer console
+- [**NEMP Server**](https://github.com/libersoft-org/nemp-server/) - the official server software including official modules, web admin, web mail client and web developer console
 
 ## Donations
 

@@ -4,6 +4,63 @@
 
 ## Table of contents
 
+### Protocol core
+
+- Data are sent using HTTPS over WebSocket
+- All the commands over WebSocket are sent in JSON format
+- Clients are connected to server using a permanent connection
+- Servers are able to send the data between themselves not using permanent connection (server disconnects after all the data are sent to other server)
+
+### Protocol identity
+
+- User's identity is in e-mail address format, the same applies to aliases, chat groups, news groups etc.
+
+### Protocol modules
+
+Here is a list of official modules that could be attached to server:
+
+#### Plain text messages
+
+#### Rich text messages
+
+#### Multipart messages
+
+#### Newsletter system
+
+#### Chat group
+
+#### News group
+
+#### Contacts
+
+#### Conversation folders
+
+#### File transfer
+
+#### Stickers
+
+#### Voice messages
+
+#### Video messages
+
+#### Voice calls
+
+#### Video calls
+
+#### Live streaming
+
+#### Conferences
+
+#### Calendar
+
+#### Tasks
+
+#### Followers
+
+#### Personal news feed
+
+#### Stories
+
 - [Introduction](#introduction)
 - [Admin to server communication](#a2s)
   - [Admin login](#a2s-login)
