@@ -82,7 +82,7 @@ It is **highly recommended not to trust and not to use messaging software that i
 | Software                            | Distributed / decentralized servers | End-to-end encryption |     Open source    |               Developed by               |
 |-------------------------------------|-------------------------------------|-----------------------|--------------------|------------------------------------------|
 | NEMP                                |          :heavy_check_mark:         |   :heavy_check_mark:  | :heavy_check_mark: | Liberland Software Foundation, Liberland |
-| SMTP + IMAP (classic e-mail)        |          :heavy_check_mark:         |          :x:          |    some software   | Jon Postel and Suzanne Sluizer, USA      |
+| SMTP + IMAP (classic e-mail)        |          :heavy_check_mark:         |     some software     |    some software   | Jon Postel and Suzanne Sluizer, USA      |
 | WhatsApp                            |                 :x:                 |   :heavy_check_mark:  |         :x:        | Meta Platforms Inc., USA                 |
 | RCS protocol (Google Messages etc.) |        mobile operators only        |     in development    |         :x:        | GSM Association, UK                      |
 | WeChat                              |                 :x:                 |          :x:          |         :x:        | Tencent Holdings Ltd., China             |
